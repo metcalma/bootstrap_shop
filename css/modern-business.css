@@ -14,8 +14,24 @@ body {
     }
 }
 img {
-  width: 25%;
-  position: center;
+  width: 75%;
+}
+
+material-icons{
+  
+}
+
+nav {
+  margin-bottom: 4em;
+  padding: .5em 0;
+  background-color: #82190D;
+}
+
+navbar-main{
+  text-align: center;
+}
+.logo{
+  width: 10%;
 }
 
 .carousel-item {
