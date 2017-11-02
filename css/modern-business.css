@@ -13,9 +13,7 @@ body {
         padding-top: 56px;
     }
 }
-img {
-  width: 75%;
-}
+
 nav {
   margin-bottom: 4em;
   padding: .5em 0;
@@ -25,10 +23,13 @@ nav {
 navbar-main{
   text-align: center;
 }
+img{
+  width: 50%;
+}
+
 .logo{
   width: 10%;
 }
-
 .carousel-item {
   margin-top: 3em;
   height: 65vh;
@@ -42,6 +43,13 @@ navbar-main{
 
 .container_thing{
   margin-top:4em;
+}
+
+.my-4 {
+    margin-top: 2rem!important;
+    margin-bottom: 4rem!important;
+    font-size: 70px;
+    text-align: center;
 }
 
 .portfolio-item {
