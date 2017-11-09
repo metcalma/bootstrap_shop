@@ -23,11 +23,8 @@ nav {
 navbar-main{
   text-align: center;
 }
-img{
-  width: 50%;
-}
 
-.logo{
+.logo img {
   width: 10%;
 }
 .carousel-item {
@@ -45,6 +42,14 @@ img{
   margin-top:4em;
 }
 
+.item-img{
+  width: 70%;
+  height: auto;
+  margin-left: 90px;
+}
+.card{
+  border: none;
+}
 .my-4 {
     margin-top: 2rem!important;
     margin-bottom: 4rem!important;
