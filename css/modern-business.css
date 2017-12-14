@@ -15,6 +15,7 @@ body {
 }
 
 nav {
+  font-family: 'Oranienbaum', serif;
   margin-bottom: 4em;
   padding: .5em 0;
   background-color: #82190D;
@@ -24,6 +25,20 @@ navbar-main{
   text-align: center;
 }
 
+.btn-lg{
+  font-family: 'Oranienbaum', serif;
+  font-size: 30px;
+  padding: 1em;
+}
+.btn-lg2{
+  font-family: 'Oranienbaum', serif;
+}
+ .btn-sm{
+   background-color: #7F1512;
+ }
+.pull-right{
+  outline-color: #7F1512;
+}
 .logo img {
   width: 10%;
 }
@@ -50,13 +65,41 @@ navbar-main{
 .card{
   border: none;
 }
+h1, h2, h3, a{
+  font-family: 'Berkshire Swash', cursive;
+}
+p{
+  font-family: 'Oranienbaum', serif;
+}
+li{
+  font-family: 'Oranienbaum', serif;
+}
+
+.price{
+  font-family: 'Oranienbaum', serif;
+  color: blue;
+  font-weight: : 900;
+  font-size: 30px;
+}
+.padding{
+  padding-top: 150px;
+}
+
 .my-4 {
     margin-top: 2rem!important;
     margin-bottom: 4rem!important;
     font-size: 70px;
     text-align: center;
 }
-
+a:link {
+  color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover{
+  color:grey;
+}
 .portfolio-item {
     margin-bottom: 30px;
 }
