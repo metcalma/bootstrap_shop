@@ -1,0 +1,2 @@
+Just a note: I didn't make a product page for all the items because that would have been a lot. I made them for the first 9 products(and the ones on the index page) and may make more but just wanted you to know that it was intentional and the ones after that won't work.
+I would take the other items off but I just think it's too fun to see them all to delete them just because they don't have an object page yet.
